@@ -15,9 +15,22 @@
   <br> - 조별예선 3차전 이 후
   <br> - 조별예선 4차전 이 후
   <br> 
-><br>2) 네이버에서 “20OO년 월드컵 우승후보” 검색
+><br>2) 네이버 뉴스에서 “20OO년 월드컵 우승후보” 검색
  <br> 
 ><br>3) 기간별 해당 페이지 비정형 데이터 추출
  <br> 
 ><br>4) 추출된 키워드로 워드 클라우드 시각화 및 연관어 분석
  <br> - 네이버에서 데이터를 추출할 때 해당 언론사 이름과 기자이름 등 불필요한 데이터는 전처리 과정을 통해 제거.
+
+해당 과정을 2016, 2018, 2022년도에 대해서 토픽분석과 연괍분석을 진행한 결과 다음과 같은 워드클라우드를 확인할 수 있었습니다. 
+
+<2016 월드컵>
+![image](https://github.com/Shoon9/Worldcup_prediction/assets/120291668/537cf528-db02-46c0-88b5-c0c565da17b9)
+
+<2018 월드컵>
+![image](https://github.com/Shoon9/Worldcup_prediction/assets/120291668/8f89e498-056a-46ea-a101-57bcafcb4c74)
+
+<2022 월드컵>
+![image](https://github.com/Shoon9/Worldcup_prediction/assets/120291668/dbb95e1f-8819-4883-abdc-9f51fd8e13c5)
+
+
